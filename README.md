@@ -34,11 +34,10 @@ I applied systematic cleaning steps and built an interactive dashboard to extrac
 - **Null Handling**
   - Identified missing values in critical fields (Employee_ID, Session, Date).
   - Replaced or removed based on context.
-Attached Before vs After data cleaning using power Query transformations,mapping table,trimming and standardization.
-<img width="1445" height="458" alt="image" src="https://github.com/user-attachments/assets/6a7502bb-116f-4f8e-aed1-af7c38105733" />
-<img width="1657" height="441" alt="image" src="https://github.com/user-attachments/assets/e93ff003-5d12-4959-836a-153631e7c859" />
 
-
+**Refer to below images:**
+![Messy Data](screenshots/Messy data screenshot.png)
+![Clean Data](screenshots/Clean data screenshot.png)
 
 ### 3. Data Quality Reporting
 - Added summary metrics:
