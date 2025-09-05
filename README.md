@@ -36,8 +36,11 @@ I applied systematic cleaning steps and built an interactive dashboard to extrac
   - Replaced or removed based on context.
 
 -**Refer to below images:**
--![Messy Data](screenshots/Messy data screenshot.png)
--![Clean Data](screenshots/Clean data screenshot.png)
+<p float="left">
+  <img src="screenshots/messy_data.png" width="400"/>
+  <img src="screenshots/clean_data.png" width="400"/>
+</p>
+
 
 ### 3. Data Quality Reporting
 - Added summary metrics:
