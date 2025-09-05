@@ -35,9 +35,9 @@ I applied systematic cleaning steps and built an interactive dashboard to extrac
   - Identified missing values in critical fields (Employee_ID, Session, Date).
   - Replaced or removed based on context.
 
-**Refer to below images:**
-![Messy Data](screenshots/Messy data screenshot.png)
-![Clean Data](screenshots/Clean data screenshot.png)
+-**Refer to below images:**
+-![Messy Data](screenshots/Messy data screenshot.png)
+-![Clean Data](screenshots/Clean data screenshot.png)
 
 ### 3. Data Quality Reporting
 - Added summary metrics:
