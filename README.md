@@ -1,4 +1,4 @@
-# Internal Team Training Analytics
+# Internal Team Training Analytics - Data Cleaning and modelling
 
 This project demonstrates end-to-end **data cleaning and analytics** of internal team training attendance data using Power BI and Power Query.  
 The dataset contained messy values such as inconsistent session names, invalid employee IDs, nulls, and duplicates.  
@@ -49,17 +49,7 @@ I applied systematic cleaning steps and built an interactive dashboard to extrac
   - % Duplicate Records
   - % Unmapped Session Names
 
-### 4. Dashboard Creation (Power BI Desktop)
--  **Session Analysis**: Training participation by session type.  
--  **Trend Analysis**: Employees trained per month.  
--  **Data Quality KPIs**: Valid vs Invalid IDs, duplicate percentages.  
--  **Employee View**: Employee-wise training participation history.  
 
-### 5. Export & Documentation
-- Exported cleaned dataset (`cleaned_training_attendance.csv`).
-- Added screenshots of dashboard and cleaning steps.
-
----
 
 ## 🔹 Project Structure
 Internal_Team_Training_Analytics/
@@ -68,11 +58,7 @@ Internal_Team_Training_Analytics/
 │ ├── messy_training_attendance.xlsx # raw dataset
 │ └── cleaned_training_attendance.csv # cleaned dataset
 │
-├── pbix/
-│ └── Internal_Team_Training.pbix # Power BI file
-│
 ├── screenshots/
-│ ├── dashboard_overview.png
 │ └── data_cleaning_steps.png
 │
 └── README.md
@@ -88,7 +74,6 @@ Internal_Team_Training_Analytics/
 - Handling messy real-world data with Power Query
 - Using mapping tables for scalable text cleaning
 - Validating and flagging IDs for data quality
-- Designing clean dashboards with data storytelling
 
 ---
 
